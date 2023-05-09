@@ -17,17 +17,15 @@ package org.example.linkedlist;
 public class MergeTwoSortedLinkedList {
 
     public static void main(String[] args) {
-        Node head1 = Utility.getLinkedList(new int[]{2, 6, 8, 10, 14, 18});
-        System.out.print("List1: ");
-        Utility.printList( head1);
+        Node head1 = getLinkedList(new int[]{2, 6, 8, 10, 14, 18});
+        System.out.println("List1: " + head1);
 
-        Node head2 = Utility.getLinkedList(new int[]{1, 4, 5, 9, 11, 50, 60});
-        System.out.print("List2: ");
-        Utility.printList( head2);
+        Node head2 = getLinkedList(new int[]{1, 4, 5, 9, 11, 50, 60});
+        System.out.println("List2: " + head2);
 
         Node head = mergeList(head1, head2);
-        System.out.println("Merged List:");
-        Utility.printList(head);
+        System.out.println("Merged List:" + head);
+
     }
 
     public static Node mergeList(Node head1, Node head2) {
@@ -48,5 +46,26 @@ public class MergeTwoSortedLinkedList {
         else if (head2 == null) ptr.next = head1;
 
         return newHead.next;
+    }
+
+    static Node getLinkedList(int[] arr) {
+        if (arr.length == 0) return null;
+        Node head = null;
+        Node tail = null;
+        for (int element : arr) {
+            tail = addNode(tail, element);
+            if(head == null) {
+                head = tail;
+            }
+        }
+        return head;
+    }
+
+    static Node addNode(Node tail, int data) {
+        Node newNode = new Node(data);
+        if (tail == null) return newNode;
+
+        tail.next = newNode;
+        return newNode;
     }
 }

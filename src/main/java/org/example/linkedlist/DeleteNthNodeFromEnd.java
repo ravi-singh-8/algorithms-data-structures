@@ -16,6 +16,10 @@ package org.example.linkedlist;
  * The linked list after deletion is: 2 3 4 <br />
  */
 
+import java.util.HashSet;
+import java.util.Set;
+import java.util.StringJoiner;
+
 /***
  * Algorithm:
  * Create Two Pointers
@@ -29,13 +33,13 @@ package org.example.linkedlist;
  */
 public class DeleteNthNodeFromEnd {
     public static void main(String[] args) {
-        Node head = Utility.getLinkedList(new int[]{2, 3, 1, 7});
+        Node head = getLinkedList(new int[]{2, 3, 1, 7});
         Node  newHead = deleteNth(head, 1);
-        Utility.printList(newHead);
+        System.out.println(newHead);
 
-        Node head2 = Utility.getLinkedList(new int[]{2, 3, 1, 7});
+        Node head2 = getLinkedList(new int[]{2, 3, 1, 7});
         newHead = deleteNth(head2, 4);
-        Utility.printList(newHead);
+        System.out.println(newHead);
     }
 
     private static Node deleteNth(Node head, int N) {
@@ -51,5 +55,26 @@ public class DeleteNthNodeFromEnd {
         }
         ptr2.next = ptr2.next.next;
         return temp.next;
+    }
+
+    static Node getLinkedList(int[] arr) {
+        if (arr.length == 0) return null;
+        Node head = null;
+        Node tail = null;
+        for (int element : arr) {
+            tail = addNode(tail, element);
+            if(head == null) {
+                head = tail;
+            }
+        }
+        return head;
+    }
+
+    static Node addNode(Node tail, int data) {
+        Node newNode = new Node(data);
+        if (tail == null) return newNode;
+
+        tail.next = newNode;
+        return newNode;
     }
 }
