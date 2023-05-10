@@ -16,9 +16,6 @@ package org.example.linkedlist;
  * The linked list after deletion is: 2 3 4 <br />
  */
 
-import java.util.HashSet;
-import java.util.Set;
-import java.util.StringJoiner;
 
 /***
  * Algorithm:
