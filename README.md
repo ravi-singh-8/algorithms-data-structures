@@ -17,5 +17,8 @@
 ### Tree
 1. [Sorted single linked list to binary search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/tree/SortedListToBST.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/tree/SortedListToBST.java)</code> <code> [LeetCode](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) </code>
 
+### Dynamic Programming
+1. [Minimum Path sum in a MxN Matrix](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/dp/MinimumPathSum.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/dp/MinimumPathSum.java) </code> <code> [LeetCode](https://leetcode.com/problems/minimum-path-sum/description/) </code>
+
 ### Strings
 1. [Find largest common prefix in an array of string](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/strings/LargestCommonPrefix.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/strings/LargestCommonPrefix.java)</code> <code> [LeetCode](https://leetcode.com/problems/longest-common-prefix/) </code>
