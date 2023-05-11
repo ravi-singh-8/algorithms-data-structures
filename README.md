@@ -10,6 +10,7 @@
 ### LinkedList
 1. [Delete Nth Node from End](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/linkedlist/DeleteNthNodeFromEnd.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/linkedlist/DeleteNthNodeFromEnd.java)</code> <code> [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) </code>
 2. [Merge two sorted Linkedlist](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/linkedlist/MergeTwoSortedLinkedList.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/linkedlist/MergeTwoSortedLinkedList.java)</code> <code> [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) </code>
+2. [Swap Nodes in Pairs](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/linkedlist/SwapNodesInPair.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/linkedlist/SwapNodesInPair.java)</code> <code> [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) </code>
 
 ### Stack
 1. [Merge Overlapping Intervals](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/stack/MergeIntervals.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/stack/MergeIntervals.java)</code> <code> [LeetCode](https://leetcode.com/problems/merge-intervals/) </code>
@@ -22,3 +23,6 @@
 
 ### Strings
 1. [Find largest common prefix in an array of string](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/strings/LargestCommonPrefix.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/strings/LargestCommonPrefix.java)</code> <code> [LeetCode](https://leetcode.com/problems/longest-common-prefix/) </code>
+
+### Arrays
+1. [Rotate Matrix MXN by 90 (Copy to another)](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/array/RotateMatrixBy90.java) <code> [Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/array/RotateMatrixBy90.java) </code>
