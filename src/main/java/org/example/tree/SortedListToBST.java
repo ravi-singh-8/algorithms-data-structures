@@ -57,41 +57,41 @@ class SortedListToBST {
         }
         return ptr1;
     }
-}
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+    private static class ListNode {
+        int val;
+        ListNode next;
+        ListNode() {}
+        ListNode(int val) { this.val = val; }
+        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 
-    @Override
-    public String toString() {
-        return  val + "->" + next;
-    }
-}
-
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
+        @Override
+        public String toString() {
+            return  val + "->" + next;
+        }
     }
 
 
-    @Override
-    public String toString() {
-        StringJoiner joiner = new StringJoiner("," , "[", "]");
-        joiner.add(String.valueOf(left));
-        joiner.add(String.valueOf(val));
-        joiner.add(String.valueOf(right));
-        return joiner.toString();
+    private static class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode() {}
+        TreeNode(int val) { this.val = val; }
+        TreeNode(int val, TreeNode left, TreeNode right) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+
+        @Override
+        public String toString() {
+            StringJoiner joiner = new StringJoiner("," , "[", "]");
+            joiner.add(String.valueOf(left));
+            joiner.add(String.valueOf(val));
+            joiner.add(String.valueOf(right));
+            return joiner.toString();
+        }
     }
 }
+

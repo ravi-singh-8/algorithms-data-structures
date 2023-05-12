@@ -20,6 +20,7 @@
 
 ### Dynamic Programming
 1. [Minimum Path sum in a MxN Matrix](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/dp/MinimumPathSum.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/dp/MinimumPathSum.java) </code> <code> [LeetCode](https://leetcode.com/problems/minimum-path-sum/description/) </code>
+1. [Longest Palindromic Substring](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/dp/LongestPalindromicSubstring.java) <code> [Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/dp/LongestPalindromicSubstring.java) </code> <code> [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) </code> <code>[GeeksforGeeks](https://www.geeksforgeeks.org/longest-palindromic-substring/)</code>
 
 ### Strings
 1. [Find largest common prefix in an array of string](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/strings/LargestCommonPrefix.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/strings/LargestCommonPrefix.java)</code> <code> [LeetCode](https://leetcode.com/problems/longest-common-prefix/) </code>
