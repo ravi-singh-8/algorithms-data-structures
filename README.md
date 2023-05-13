@@ -2,14 +2,13 @@
 
 ### Leet Code 150 - Medium, Hard
 
-1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code>
+1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code> | :heavy_check_mark: |  
 2. [Top K frequent elements in an Array](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/TopKFrequent.java) <code> [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) </code>
 3. [Product of array Except itself]() <code> [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) </code>
 4. [Valid Sudoku]() <code> [LeetCode](https://leetcode.com/problems/valid-sudoku/) </code>
 5. [Encode and Decode Strings]() <code> [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) </code>
 6. [Longest Consecutive Sequence]() <code> [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)</code>
-
-
+<br /><br />
 7. [Find Two elemenst who sum to K if Array is sorted]() <code> [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)</code>
 8. [Find 3 Numbers who sum to zero]() <code> [LeetCode](https://leetcode.com/problems/3sum/) </code>
 9. [Container with most Water]() <code> [LeetCode](https://leetcode.com/problems/container-with-most-water/) </code>
