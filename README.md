@@ -38,7 +38,7 @@
 34. [LRU Cache]() <code> [LeetCode](https://leetcode.com/problems/lru-cache/) </code>
 35. [Merge K Sorted List]() <code> [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) </code>
 36. [Reverse Nodes in K Groups]() <code> [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) </code>
-37. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/LowestCommonAncestorInBST.java) <code>[Leetcode](Lowest Common Ancestor of a Binary Search Tree)</code> <code>Tree</code> :white_check_mark:
+37. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/LowestCommonAncestorInBST.java) <code>[Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)</code> <code>Tree</code> :white_check_mark:
 
 ### Problem Solving
 1. [Get all paths from top to bottom in a MXN Matrix](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/problemsolving/PrintAllPathInMatrix.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/problemsolving/PrintAllPathInMatrix.java) </code>
