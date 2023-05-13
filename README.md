@@ -2,8 +2,8 @@
 
 ### Leet Code 150 - Medium, Hard
 
-1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code> | :heavy_check_mark: |  
-2. [Top K frequent elements in an Array](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/TopKFrequent.java) <code> [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) </code>
+1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code> :white_check_mark:  
+2. [Top K frequent elements in an Array](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/TopKFrequent.java) <code> [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) </code> :white_check_mark:
 3. [Product of array Except itself]() <code> [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) </code>
 4. [Valid Sudoku]() <code> [LeetCode](https://leetcode.com/problems/valid-sudoku/) </code>
 5. [Encode and Decode Strings]() <code> [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) </code>
