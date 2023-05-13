@@ -2,43 +2,34 @@
 
 ### Leet Code 150 - Medium, Hard
 
-1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code> :white_check_mark:  
-2. [Top K frequent elements in an Array](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/TopKFrequent.java) <code> [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) </code> :white_check_mark:
+1. [Group Anagrams](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GroupAnagrams.java) <code> [LeetCode](https://leetcode.com/problems/group-anagrams/) </code> <code> String, HashMap, Array, Sort </code> :white_check_mark:  
+2. [Top K frequent elements in an Array](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/TopKFrequent.java) <code> [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) </code> </code> <code> PriorityQueue, HashMap </code> :white_check_mark:
 3. [Product of array Except itself]() <code> [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) </code>
 4. [Valid Sudoku]() <code> [LeetCode](https://leetcode.com/problems/valid-sudoku/) </code>
 5. [Encode and Decode Strings]() <code> [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) </code>
 6. [Longest Consecutive Sequence]() <code> [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)</code>
-<br /><br />
 7. [Find Two elemenst who sum to K if Array is sorted]() <code> [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)</code>
 8. [Find 3 Numbers who sum to zero]() <code> [LeetCode](https://leetcode.com/problems/3sum/) </code>
 9. [Container with most Water]() <code> [LeetCode](https://leetcode.com/problems/container-with-most-water/) </code>
 10. [Trapping Rain water]() <code> [LeetCode](https://leetcode.com/problems/trapping-rain-water/) </code>
-
-
 11. [Best time to buy and sell Stock]() <code> [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) </code>
 12. [Longest Substring without repeating characters]() <code> [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) </code>
 13. [Longest Repeating character replacement]() <code> [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) </code>
 14. [Permutation in String]() <code> [LeetCode](https://leetcode.com/problems/permutation-in-string/) </code>
 15. [Minimum wondow substring]() <code> [LeetCode](https://leetcode.com/problems/minimum-window-substring/) </code>
 16. [Sliding Window Maximum]() <code> [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) </code>
-
-
 17. [Stack with min operation]() <code> [LeetCode](https://leetcode.com/problems/min-stack/) </code>
 18. [Evaluate Reverse polish notation]() <code> [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) </code>
 19. [Generate Parenthesis]() <code> [LeetCode](https://leetcode.com/problems/generate-parentheses/) </code>
 20. [Daily Temperatures]() <code> [LeetCode](https://leetcode.com/problems/daily-temperatures/) </code>
 21. [Car fleet]() <code> [LeetCode](https://leetcode.com/problems/car-fleet/) </code>
 22. [Largest Rectangle in Histogram]() <code> [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) </code>
-
-
 23. [Search in a 2D Matrix]() <code> [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) </code>
 24. [koko eating bananaa]() <code> [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) </code>
 25. [Find Minumum in sorted rotated array]() <code> [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) </code>
 26. [Search in a rotated sorted array]() <code> [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) </code>
 27. [Time based key value store]() <code> [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) </code>
 28. [Median of two sorted arrays]() <code> [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) </code>
-
-
 29. [Reorder List]() <code> [LeetCode](https://leetcode.com/problems/reorder-list/) </code>
 30. [Remove Nth Node from end of List]() <code> [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) </code>
 31. [Copy List with random Pointer]() <code> [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) </code>
@@ -47,7 +38,7 @@
 34. [LRU Cache]() <code> [LeetCode](https://leetcode.com/problems/lru-cache/) </code>
 35. [Merge K Sorted List]() <code> [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) </code>
 36. [Reverse Nodes in K Groups]() <code> [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) </code>
-
+37. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/LowestCommonAncestorInBST.java) <code>[Leetcode](Lowest Common Ancestor of a Binary Search Tree)</code> <code>Tree</code> :white_check_mark:
 
 ### Problem Solving
 1. [Get all paths from top to bottom in a MXN Matrix](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/problemsolving/PrintAllPathInMatrix.java) <code> [Download Raw](https://raw.githubusercontent.com/ravi-singh-8/algorithms-data-structures/main/src/main/java/org/example/problemsolving/PrintAllPathInMatrix.java) </code>
