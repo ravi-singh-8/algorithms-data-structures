@@ -1,4 +1,4 @@
-package org.example.linkedlist;
+package org.example.leetcode150;
 
 /**
  * https://leetcode.com/problems/remove-nth-node-from-end-of-list/
@@ -16,6 +16,8 @@ package org.example.linkedlist;
  * The linked list after deletion is: 2 3 4 <br />
  */
 
+
+import org.example.linkedlist.Node;
 
 /***
  * Algorithm:
@@ -73,5 +75,19 @@ public class DeleteNthNodeFromEnd {
 
         tail.next = newNode;
         return newNode;
+    }
+
+    private static class Node {
+        Node next;
+        int data;
+
+        public Node(int data) {
+            this.data = data;
+        }
+
+        @Override
+        public String toString() {
+            return data + "->" + next;
+        }
     }
 }
