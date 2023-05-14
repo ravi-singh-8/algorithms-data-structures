@@ -1,4 +1,4 @@
-package org.example.tree;
+package org.example.leetcode150;
 
 
 public class ValidateBinarySearchTree {

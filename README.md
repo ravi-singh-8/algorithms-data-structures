@@ -42,6 +42,8 @@
 38. [Binary Tree Level Order Traversal](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/LevelOrderTraversalOfTree.java) <code>[LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)</code> <code> Queue, Tree</code> :white_check_mark:
 39. [Binary Tree RightView](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/RightViewOfTree.java) <code>[LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/)</code> <code> Queue, Tree, DFS</code> :white_check_mark:
 40. [Good Nodes in Binary Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/GoodNodesBinaryTree.java) <code>[LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)</code> <code> Tree, DFS</code> :white_check_mark:
+41. [Validate Binary Search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/ValidateBinarySearchTree.java) <code>[LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)</code> <code> Tree, DFS</code> :white_check_mark:
+41. [Kth Smallest Node in binary Search Tree](https://github.com/ravi-singh-8/algorithms-data-structures/blob/main/src/main/java/org/example/leetcode150/KthSmallestNodeInBST.java) <code>[LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)</code> <code> Tree, DFS</code> :white_check_mark:
 
 
 ### Problem Solving
